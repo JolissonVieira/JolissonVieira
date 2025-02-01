@@ -31,3 +31,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 40px; height: 40px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" style="width: 40px; height: 40px;"/>
 </div>
+
+<h2 style="font-family: Arial, sans-serif;">Estudos Atuais</h2>
+<h3 style="font-family: Arial, sans-serif;">Inteligência Artificial</h3>
+<p style="font-family: Arial, sans-serif;">Atualmente, estou estudando Inteligência Artificial, focando em aprendizado de máquina, redes neurais e processamento de linguagem natural.</p>
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://www.openai.com/">
+        <img src="imagens/openai.png" alt="OpenAI" style="width: 130px; height: 80px;"/>
+    </a>
+</div>
