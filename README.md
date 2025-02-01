@@ -10,7 +10,7 @@
 <h2 style="font-family: Arial, sans-serif;">Contato</h2>
 <div>
     <a href="https://www.linkedin.com/in/jolissonvieira/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" style="width: 40px; height: 40px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 40px; height: 40px;"/>
     </a>
 </div>
 
