@@ -36,7 +36,5 @@
 <h3 style="font-family: Arial, sans-serif;">Inteligência Artificial</h3>
 <p style="font-family: Arial, sans-serif;">Atualmente faço parte da equipe do núcleo de inteligência artificial do TCU, atuando em soluções que permitem os servidores terem acesso aos modelos mais atuais do mercado </p>
 <div style="display: flex; justify-content: space-around;">
-    <a href="https://www.openai.com/">
-        <img src="imagens/openai.png" alt="OpenAI" style="width: 130px; height: 80px;"/>
-    </a>
+        <img src="imagens/llms.png" alt="OpenAI" style="width: 130px; height: 80px;"/>
 </div>
